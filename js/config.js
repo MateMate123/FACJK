@@ -87,18 +87,16 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
-	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	{youtube: "zA6wRutN_7Q", name: "Suwa-cafeteria"},
-	{youtube: "KtlKbE4qU0c", name: "月の妖鳥、化猫の幻"},
+	{ogg: "Aloe_Blacc_-_I_Need_A_Dollar_Official_Video_", name: "I need a dollar - Aloe Blacc"},
+	
 ];
 
 /*Random music order?*/
-var l_musicRandom = true;
+var l_musicRandom = false;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 15;
+var l_musicVolume = 10;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -107,7 +105,6 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
-	"Did you know these backgrounds and songs are from Touhou?"
 ];
 
 /*Random message order?*/
