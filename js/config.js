@@ -87,7 +87,7 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{ogg: "Aloe_Blacc_-_I_Need_A_Dollar_Official_Video_", name: "I need a dollar - Aloe Blacc"},
+	{ogg: "Aloe_Blacc_-_I_Need_A_Dollar_Official_Video_.ogg", name: "I need a dollar - Aloe Blacc"},
 	
 ];
 
